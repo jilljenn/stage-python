@@ -44,4 +44,4 @@ Que se passe-t-il si le nombre d'allumettes que chaque joueur peut retirer :
 Liste des champions
 :::::::::::::::::::
 
-La liste des champions est `ici <_static/interfaces/interface_allumettes>`_.
+La liste des champions est `ici <http://nbviewer.ipython.org/github/jilljenn/stage-python/tree/master/champions/allumettes/>`_.

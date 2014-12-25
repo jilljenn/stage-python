@@ -38,4 +38,4 @@ Essayez de battre ``jj`` en tapant : ::
 Liste des champions
 :::::::::::::::::::
 
-La liste des champions est `ici <_static/interfaces/interface_boites>`_.
+La liste des champions est `ici <http://nbviewer.ipython.org/github/jilljenn/stage-python/tree/master/champions/boites/>`_.

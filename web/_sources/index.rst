@@ -17,7 +17,12 @@ Déroulement du stage
   boites.rst
   projets.rst
 
-Les codes des participants sont accessibles `ici <_static/codes/>`_, leurs champions `là <_static/interfaces/>`_.
+Codes des participants
+::::::::::::::::::::::
+
+- Visualiser `les Notebooks IPython des participants <http://nbviewer.ipython.org/github/jilljenn/stage-python/tree/master/codes/>`_
+- Consulter leurs `champions au jeu des allumettes <http://nbviewer.ipython.org/github/jilljenn/stage-python/tree/master/champions/allumettes/>`_
+- Consulter leurs `champions au jeu des boîtes <http://nbviewer.ipython.org/github/jilljenn/stage-python/tree/master/champions/boites/>`_
 
 Pour continuer à progresser
 :::::::::::::::::::::::::::
