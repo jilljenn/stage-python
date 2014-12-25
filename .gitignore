@@ -1,0 +1,6 @@
+.DS_Store
+build
+*.pyc
+*.log
+*.aux
+*.gz

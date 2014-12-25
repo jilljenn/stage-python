@@ -1,0 +1,4 @@
+sphinx
+paver
+sphinxcontrib-paverutils
+cogapp
