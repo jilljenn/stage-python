@@ -26,7 +26,7 @@ Voici un compteur qui contient initialement deux clés : 5 et 1, associées resp
 Langue française
 ::::::::::::::::
 
-Pour charger le `dictionnaire de la langue française <../_static/dico.txt>`_ (336 531 mots), faites ceci :
+Pour charger le `dictionnaire de la langue française <_static/dico.txt>`_ (336 531 mots), faites ceci :
 
 .. code-block:: python
 
@@ -42,7 +42,7 @@ Quelques pistes
 IMDb
 ::::
 
-Pour charger le `top 250 IMDb <../_static/top250.json>`_ (Internet Movie Database), faites ceci :
+Pour charger le `top 250 IMDb <_static/top250.json>`_ (Internet Movie Database), faites ceci :
 
 .. code-block:: python
 
